@@ -1,2 +1,5 @@
 # apkinfo
-Show .apk file basic info using aapt
+A shell script showing .apk file's basic info using aapt (Android Asset Packaging Tool).
+
+
+
